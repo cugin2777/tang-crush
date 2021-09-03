@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Huyền à!',
     introDesc: `Biển kia mong ngóng bóng thuyền
-Như anh đợi mãi dáng huyền mà thôi
+         Như anh đợi mãi dáng huyền mà thôi
 Dẫu rằng nàng chẳng yêu tôi
 Để tôi nhận lại đắng môi vì người
 Sao đêm lấp lánh ánh cười
