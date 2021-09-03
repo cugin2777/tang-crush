@@ -1,9 +1,13 @@
 const CONFIG = {
     introTitle: 'Huyền à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Biển kia mong ngóng bóng thuyền
+Như anh đợi mãi dáng huyền mà thôi
+Dẫu rằng nàng chẳng yêu tôi
+Để tôi nhận lại đắng môi vì người
+Sao đêm lấp lánh ánh cười
+Trong tôi chỉ có 1 người là em
+Dẫu rằng đổi nhận “đã xem”
+Lòng anh vẫn muốn yêu em đến già`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
